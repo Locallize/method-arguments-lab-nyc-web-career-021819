@@ -1,4 +1,5 @@
-def introduction (one, two)
+def introduction (name)
+  puts "#{}"
   
 end
   
