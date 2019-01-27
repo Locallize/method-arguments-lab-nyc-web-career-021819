@@ -1,2 +1,4 @@
-def introduction  
+def introduction (one, two)
+  
+end
   
